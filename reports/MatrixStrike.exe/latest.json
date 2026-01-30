@@ -1,4 +1,27 @@
 {
   "ok": true,
-  "path": "/tmp/mx_report.json"
+  "signals": [
+    "VC Daily Snapshot: funding activity clustered in fewer rounds; higher bar for revenue quality.",
+    "VC Daily Snapshot: buyers compressing budgets; procurement scrutiny increasing.",
+    "VC Daily Snapshot: hiring demand tilting toward GTM efficiency and platform engineering."
+  ],
+  "implications": [
+    "Down-round risk rises without clear growth narrative; extend runway via efficiency + pricing discipline.",
+    "GTM must be instrumented; conversion + retention trump pipeline volume."
+  ],
+  "actions": [
+    "Rebaseline runway with two scenarios (base/downside); lock weekly cash cadence.",
+    "Tighten ICP and pricing; add a ‘no-discount’ approval gate for large deals.",
+    "Ship 2–3 proof points (case studies, benchmarks) to de-risk next raise."
+  ],
+  "watchlist": [
+    "Category multiples vs. growth rates (public comps).",
+    "Sales cycle length and late-stage pipeline slippage.",
+    "Churn/expansion by cohort; gross margin trend."
+  ],
+  "meta": {
+    "tone": "executive",
+    "topic": "VC Daily Snapshot",
+    "generated_at": "2026-01-30T09:50:46.985772+00:00"
+  }
 }
